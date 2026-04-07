@@ -110,21 +110,26 @@ app.searchNode = () => {
 
 app.loadBand = async () => {
     const band = document.getElementById("bandSelect").value;
-    const res = await fetch(`../data/export/${band}_network.json`);
+    const res = await fetch(`./export/${band}_network.json`);
     const data = await res.json();
     createSVG();
     drawLinks(data.links);
     drawNodes(data.nodes);
-    drawLabels(data.nodes);
+    drawLabels(data.labels || data.nodes); // Handle potential data structure difference
     initSimulation(data);
     setSimulationTicks();
 };
 
+
 async function initApp() {
-    const res = await fetch(`../data/export/manifest.json`);
+    const res = await fetch(`./export/manifest.json`);
     const bands = await res.json();
     const select = document.getElementById("bandSelect");
-    bands.forEach(b => { select.add(new Option(b, b)); });
+    
+    // Clear existing options first
+    select.innerHTML = ''; 
+    
+    bands.forEach(b => { select.add(new Option(b.replace(/_/g, ' '), b)); });
     
     document.getElementById("searchInput").addEventListener("keypress", e => {
         if (e.key === "Enter") app.searchNode();
