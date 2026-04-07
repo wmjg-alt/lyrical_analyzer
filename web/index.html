@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lyric NLP Analysis</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div id="controls">
+        <select id="bandSelect"></select>
+        <button onclick="app.loadBand()">Load Band</button>
+        <input type="text" id="searchInput" placeholder="Search node...">
+        <button onclick="app.searchNode()">Search</button>
+        <button onclick="app.resetHighlight()">Reset</button>
+    </div>
+    <div id="graph-container"></div>
+    <script src="script.js"></script>
+</body>
+</html>

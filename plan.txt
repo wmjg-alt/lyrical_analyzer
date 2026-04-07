@@ -1,0 +1,21 @@
+lyrics_analyzer/
+├── environment.yml
+├── data/
+│   ├── raw/                 # Stage 0: Raw text files
+│   ├── processed/           # Stage 1: Cleaned tokens/dataframes
+│   └── export/              # Stage 3: JSON for the web frontend
+├── src/
+│   ├── __init__.py
+│   ├── collect.py           # CLI entry point for Stage 0
+│   └── utils/
+│       ├── __init__.py
+│       ├── api_utils.py     # API interaction logic
+│       └── file_utils.py    # Directory and file operations
+├── tests/
+│   ├── __init__.py
+│   ├── test_collect.py
+│   └── test_file_utils.py
+└── web/                     # Stage 4: Frontend code
+    ├── index.html
+    ├── script.js
+    └── style.css

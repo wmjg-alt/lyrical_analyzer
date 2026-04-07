@@ -1,0 +1,16 @@
+# Python environment
+.venv/
+.env
+__pycache__/
+*.pyc
+
+# Data
+data/raw/
+data/processed/
+data/metadata/
+data/stats/
+# We only keep the export folder because the website needs it to display!
+
+# IDE
+.vscode/
+.DS_Store

@@ -1,0 +1,19 @@
+name: lyrics_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pytest
+  - pandas
+  - spacy
+  - scikit-learn
+  - networkx
+  - matplotlib
+  - seaborn
+  - wordcloud
+  - ipykernel
+  - pip:
+    - lyricsgenius==3.0.1
+    - python-dotenv==1.0.0
