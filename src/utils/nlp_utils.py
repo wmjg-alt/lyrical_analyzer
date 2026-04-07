@@ -2,6 +2,18 @@ import re
 import spacy
 from spacy.language import Language
 from spacy.tokens import Token
+from better_profanity import profanity
+
+# Initialize the library
+profanity.load_censor_words()
+
+def mask_text(text: str) -> str:
+    """
+    Censors profanity by keeping the first and last letters 
+    and masking the middle (e.g., 'f**k').
+    """
+    # This library defaults to '****', so we customize the masking
+    return profanity.censor(text, censor_char='*')
 
 def load_nlp_model() -> Language:
     """Load the English SpaCy model (Large for better word vectors)."""

@@ -1,8 +1,8 @@
 import argparse
 import pandas as pd
 from pathlib import Path
-from src.utils.nlp_utils import load_nlp_model, clean_raw_lyrics, extract_lemmas
 from src.utils.file_utils import clean_filename, create_directory
+from src.utils.nlp_utils import load_nlp_model, clean_raw_lyrics, extract_lemmas, mask_text
 
 def parse_process_args() -> argparse.Namespace:
     """Parse command-line arguments for NLP processing."""
@@ -10,11 +10,15 @@ def parse_process_args() -> argparse.Namespace:
     parser.add_argument("--band", type=str, required=True, help="Name of the band.")
     return parser.parse_args()
 
+
 def process_song_file(file_path: Path, nlp) -> dict:
-    """Read, clean, and extract NLP lemmas from a single song file."""
+    """Read, clean, censor, and extract NLP lemmas from a single song file."""
     raw_text = file_path.read_text(encoding="utf-8")
     cleaned_text = clean_raw_lyrics(raw_text)
-    lemmas = extract_lemmas(nlp(cleaned_text))
+    
+    censored_text = mask_text(cleaned_text)
+    
+    lemmas = extract_lemmas(nlp(censored_text))
     return {"song": file_path.stem, "lemmas": " ".join(lemmas)}
 
 def process_band_directory(band_dir: Path, nlp) -> list[dict]:

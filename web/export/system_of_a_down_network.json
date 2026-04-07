@@ -1,0 +1,1589 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "topic",
+      "group": "Topic_0",
+      "id": "Topic_0"
+    },
+    {
+      "type": "word",
+      "group": "Topic_0",
+      "id": "go"
+    },
+    {
+      "type": "word",
+      "group": "Topic_0",
+      "id": "day"
+    },
+    {
+      "type": "word",
+      "group": "Topic_0",
+      "id": "away"
+    },
+    {
+      "type": "word",
+      "group": "Topic_7",
+      "id": "people"
+    },
+    {
+      "type": "word",
+      "group": "Topic_0",
+      "id": "end"
+    },
+    {
+      "type": "word",
+      "group": "Topic_0",
+      "id": "lonely"
+    },
+    {
+      "type": "word",
+      "group": "Topic_5",
+      "id": "feel"
+    },
+    {
+      "type": "word",
+      "group": "Topic_6",
+      "id": "come"
+    },
+    {
+      "type": "word",
+      "group": "Topic_0",
+      "id": "maggot"
+    },
+    {
+      "type": "word",
+      "group": "Topic_0",
+      "id": "pray"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_1",
+      "id": "Topic_1"
+    },
+    {
+      "type": "word",
+      "group": "Topic_1",
+      "id": "car"
+    },
+    {
+      "type": "word",
+      "group": "Topic_1",
+      "id": "sit"
+    },
+    {
+      "type": "word",
+      "group": "Topic_1",
+      "id": "freeway"
+    },
+    {
+      "type": "word",
+      "group": "Topic_1",
+      "id": "wait"
+    },
+    {
+      "type": "word",
+      "group": "Topic_1",
+      "id": "girl"
+    },
+    {
+      "type": "word",
+      "group": "Topic_1",
+      "id": "pig"
+    },
+    {
+      "type": "word",
+      "group": "Topic_2",
+      "id": "head"
+    },
+    {
+      "type": "word",
+      "group": "Topic_1",
+      "id": "leave"
+    },
+    {
+      "type": "word",
+      "group": "Topic_1",
+      "id": "hand"
+    },
+    {
+      "type": "word",
+      "group": "Topic_1",
+      "id": "disguise"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_2",
+      "id": "Topic_2"
+    },
+    {
+      "type": "word",
+      "group": "Topic_2",
+      "id": "know"
+    },
+    {
+      "type": "word",
+      "group": "Topic_2",
+      "id": "disco"
+    },
+    {
+      "type": "word",
+      "group": "Topic_2",
+      "id": "non"
+    },
+    {
+      "type": "word",
+      "group": "Topic_3",
+      "id": "stop"
+    },
+    {
+      "type": "word",
+      "group": "Topic_2",
+      "id": "wind"
+    },
+    {
+      "type": "word",
+      "group": "Topic_2",
+      "id": "hair"
+    },
+    {
+      "type": "word",
+      "group": "Topic_2",
+      "id": "tv"
+    },
+    {
+      "type": "word",
+      "group": "Topic_2",
+      "id": "awake"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_3",
+      "id": "Topic_3"
+    },
+    {
+      "type": "word",
+      "group": "Topic_3",
+      "id": "want"
+    },
+    {
+      "type": "song",
+      "group": "Topic_3",
+      "id": "shimmy"
+    },
+    {
+      "type": "word",
+      "group": "Topic_3",
+      "id": "cocaine"
+    },
+    {
+      "type": "word",
+      "group": "Topic_3",
+      "id": "make"
+    },
+    {
+      "type": "word",
+      "group": "Topic_3",
+      "id": "think"
+    },
+    {
+      "type": "word",
+      "group": "Topic_3",
+      "id": "hide"
+    },
+    {
+      "type": "word",
+      "group": "Topic_3",
+      "id": "crazy"
+    },
+    {
+      "type": "word",
+      "group": "Topic_3",
+      "id": "school"
+    },
+    {
+      "type": "word",
+      "group": "Topic_3",
+      "id": "late"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_4",
+      "id": "Topic_4"
+    },
+    {
+      "type": "word",
+      "group": "Topic_4",
+      "id": "free"
+    },
+    {
+      "type": "word",
+      "group": "Topic_4",
+      "id": "river"
+    },
+    {
+      "type": "word",
+      "group": "Topic_4",
+      "id": "wanna"
+    },
+    {
+      "type": "word",
+      "group": "Topic_4",
+      "id": "lose"
+    },
+    {
+      "type": "word",
+      "group": "Topic_4",
+      "id": "return"
+    },
+    {
+      "type": "word",
+      "group": "Topic_4",
+      "id": "killer"
+    },
+    {
+      "type": "word",
+      "group": "Topic_4",
+      "id": "demon"
+    },
+    {
+      "type": "word",
+      "group": "Topic_4",
+      "id": "one"
+    },
+    {
+      "type": "word",
+      "group": "Topic_4",
+      "id": "aerial"
+    },
+    {
+      "type": "word",
+      "group": "Topic_4",
+      "id": "rest"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_5",
+      "id": "Topic_5"
+    },
+    {
+      "type": "word",
+      "group": "Topic_5",
+      "id": "na"
+    },
+    {
+      "type": "word",
+      "group": "Topic_5",
+      "id": "anymore"
+    },
+    {
+      "type": "word",
+      "group": "Topic_5",
+      "id": "ghost"
+    },
+    {
+      "type": "word",
+      "group": "Topic_5",
+      "id": "dream"
+    },
+    {
+      "type": "word",
+      "group": "Topic_6",
+      "id": "die"
+    },
+    {
+      "type": "word",
+      "group": "Topic_5",
+      "id": "rockin"
+    },
+    {
+      "type": "word",
+      "group": "Topic_5",
+      "id": "care"
+    },
+    {
+      "type": "word",
+      "group": "Topic_5",
+      "id": "blue"
+    },
+    {
+      "type": "word",
+      "group": "Topic_5",
+      "id": "indigenously"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_6",
+      "id": "Topic_6"
+    },
+    {
+      "type": "word",
+      "group": "Topic_6",
+      "id": "try"
+    },
+    {
+      "type": "word",
+      "group": "Topic_6",
+      "id": "game"
+    },
+    {
+      "type": "word",
+      "group": "Topic_6",
+      "id": "philosophy"
+    },
+    {
+      "type": "word",
+      "group": "Topic_6",
+      "id": "run"
+    },
+    {
+      "type": "word",
+      "group": "Topic_6",
+      "id": "devil"
+    },
+    {
+      "type": "word",
+      "group": "Topic_6",
+      "id": "wild"
+    },
+    {
+      "type": "word",
+      "group": "Topic_6",
+      "id": "stick"
+    },
+    {
+      "type": "word",
+      "group": "Topic_6",
+      "id": "buck"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_7",
+      "id": "Topic_7"
+    },
+    {
+      "type": "word",
+      "group": "Topic_7",
+      "id": "need"
+    },
+    {
+      "type": "word",
+      "group": "Topic_7",
+      "id": "therapy"
+    },
+    {
+      "type": "word",
+      "group": "Topic_7",
+      "id": "advertising"
+    },
+    {
+      "type": "word",
+      "group": "Topic_11",
+      "id": "buy"
+    },
+    {
+      "type": "word",
+      "group": "Topic_7",
+      "id": "multiply"
+    },
+    {
+      "type": "word",
+      "group": "Topic_7",
+      "id": "pie"
+    },
+    {
+      "type": "word",
+      "group": "Topic_7",
+      "id": "terracotta"
+    },
+    {
+      "type": "word",
+      "group": "Topic_7",
+      "id": "banana"
+    },
+    {
+      "type": "word",
+      "group": "Topic_7",
+      "id": "cause"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_8",
+      "id": "Topic_8"
+    },
+    {
+      "type": "word",
+      "group": "Topic_8",
+      "id": "push"
+    },
+    {
+      "type": "word",
+      "group": "Topic_8",
+      "id": "smile"
+    },
+    {
+      "type": "word",
+      "group": "Topic_8",
+      "id": "horse"
+    },
+    {
+      "type": "word",
+      "group": "Topic_8",
+      "id": "fly"
+    },
+    {
+      "type": "word",
+      "group": "Topic_8",
+      "id": "pilot"
+    },
+    {
+      "type": "word",
+      "group": "Topic_8",
+      "id": "jet"
+    },
+    {
+      "type": "word",
+      "group": "Topic_8",
+      "id": "weak"
+    },
+    {
+      "type": "word",
+      "group": "Topic_8",
+      "id": "eye"
+    },
+    {
+      "type": "word",
+      "group": "Topic_8",
+      "id": "woo"
+    },
+    {
+      "type": "word",
+      "group": "Topic_8",
+      "id": "little"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_9",
+      "id": "Topic_9"
+    },
+    {
+      "type": "song",
+      "group": "Topic_9",
+      "id": "cigaro"
+    },
+    {
+      "type": "word",
+      "group": "Topic_9",
+      "id": "regulator"
+    },
+    {
+      "type": "word",
+      "group": "Topic_9",
+      "id": "denial"
+    },
+    {
+      "type": "word",
+      "group": "Topic_9",
+      "id": "wrong"
+    },
+    {
+      "type": "word",
+      "group": "Topic_9",
+      "id": "smoke"
+    },
+    {
+      "type": "word",
+      "group": "Topic_9",
+      "id": "cigar"
+    },
+    {
+      "type": "word",
+      "group": "Topic_9",
+      "id": "cruel"
+    },
+    {
+      "type": "song",
+      "group": "Topic_9",
+      "id": "forest"
+    },
+    {
+      "type": "word",
+      "group": "Topic_9",
+      "id": "feeling"
+    },
+    {
+      "type": "word",
+      "group": "Topic_9",
+      "id": "walk"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_10",
+      "id": "Topic_10"
+    },
+    {
+      "type": "word",
+      "group": "Topic_10",
+      "id": "la"
+    },
+    {
+      "type": "word",
+      "group": "Topic_10",
+      "id": "heathen"
+    },
+    {
+      "type": "word",
+      "group": "Topic_10",
+      "id": "fight"
+    },
+    {
+      "type": "word",
+      "group": "Topic_10",
+      "id": "protect"
+    },
+    {
+      "type": "word",
+      "group": "Topic_10",
+      "id": "send"
+    },
+    {
+      "type": "word",
+      "group": "Topic_10",
+      "id": "land"
+    },
+    {
+      "type": "word",
+      "group": "Topic_10",
+      "id": "poor"
+    },
+    {
+      "type": "song",
+      "group": "Topic_10",
+      "id": "war"
+    },
+    {
+      "type": "word",
+      "group": "Topic_10",
+      "id": "party"
+    },
+    {
+      "type": "word",
+      "group": "Topic_10",
+      "id": "history"
+    },
+    {
+      "type": "topic",
+      "group": "Topic_11",
+      "id": "Topic_11"
+    },
+    {
+      "type": "word",
+      "group": "Topic_11",
+      "id": "prison"
+    },
+    {
+      "type": "word",
+      "group": "Topic_11",
+      "id": "build"
+    },
+    {
+      "type": "word",
+      "group": "Topic_11",
+      "id": "system"
+    },
+    {
+      "type": "word",
+      "group": "Topic_11",
+      "id": "drug"
+    },
+    {
+      "type": "word",
+      "group": "Topic_11",
+      "id": "right"
+    },
+    {
+      "type": "word",
+      "group": "Topic_11",
+      "id": "policy"
+    },
+    {
+      "type": "word",
+      "group": "Topic_11",
+      "id": "pay"
+    },
+    {
+      "type": "word",
+      "group": "Topic_11",
+      "id": "crack"
+    },
+    {
+      "type": "word",
+      "group": "Topic_11",
+      "id": "smack"
+    },
+    {
+      "type": "song",
+      "group": "Topic_4",
+      "id": "aerials"
+    },
+    {
+      "type": "song",
+      "group": "Topic_5",
+      "id": "atwa"
+    },
+    {
+      "type": "song",
+      "group": "Topic_10",
+      "id": "b.y.o.b."
+    },
+    {
+      "type": "song",
+      "group": "Topic_6",
+      "id": "bounce"
+    },
+    {
+      "type": "song",
+      "group": "Topic_7",
+      "id": "chic_\u2018n\u2019_stu"
+    },
+    {
+      "type": "song",
+      "group": "Topic_3",
+      "id": "chop_suey!"
+    },
+    {
+      "type": "song",
+      "group": "Topic_8",
+      "id": "deer_dance"
+    },
+    {
+      "type": "song",
+      "group": "Topic_5",
+      "id": "dreaming"
+    },
+    {
+      "type": "song",
+      "group": "Topic_6",
+      "id": "genocidal_humanoidz"
+    },
+    {
+      "type": "song",
+      "group": "Topic_4",
+      "id": "holy_mountains"
+    },
+    {
+      "type": "song",
+      "group": "Topic_1",
+      "id": "hypnotize"
+    },
+    {
+      "type": "song",
+      "group": "Topic_8",
+      "id": "i-e-a-i-a-i-o"
+    },
+    {
+      "type": "song",
+      "group": "Topic_8",
+      "id": "jet_pilot"
+    },
+    {
+      "type": "song",
+      "group": "Topic_0",
+      "id": "lonely_day"
+    },
+    {
+      "type": "song",
+      "group": "Topic_0",
+      "id": "lost_in_hollywood"
+    },
+    {
+      "type": "song",
+      "group": "Topic_1",
+      "id": "mr._jack"
+    },
+    {
+      "type": "song",
+      "group": "Topic_4",
+      "id": "needles"
+    },
+    {
+      "type": "song",
+      "group": "Topic_11",
+      "id": "prison_song"
+    },
+    {
+      "type": "song",
+      "group": "Topic_10",
+      "id": "protect_the_land"
+    },
+    {
+      "type": "song",
+      "group": "Topic_3",
+      "id": "psycho"
+    },
+    {
+      "type": "song",
+      "group": "Topic_5",
+      "id": "question!"
+    },
+    {
+      "type": "song",
+      "group": "Topic_5",
+      "id": "radiovideo"
+    },
+    {
+      "type": "song",
+      "group": "Topic_0",
+      "id": "revenga"
+    },
+    {
+      "type": "song",
+      "group": "Topic_2",
+      "id": "roulette"
+    },
+    {
+      "type": "song",
+      "group": "Topic_10",
+      "id": "sad_statue"
+    },
+    {
+      "type": "song",
+      "group": "Topic_9",
+      "id": "science"
+    },
+    {
+      "type": "song",
+      "group": "Topic_6",
+      "id": "shame"
+    },
+    {
+      "type": "song",
+      "group": "Topic_0",
+      "id": "soldier_side"
+    },
+    {
+      "type": "song",
+      "group": "Topic_2",
+      "id": "spiders"
+    },
+    {
+      "type": "song",
+      "group": "Topic_0",
+      "id": "sugar"
+    },
+    {
+      "type": "song",
+      "group": "Topic_6",
+      "id": "suite-pee"
+    },
+    {
+      "type": "song",
+      "group": "Topic_9",
+      "id": "this_cocaine_makes_me_feel_like_i\u2019m_on_this_song"
+    },
+    {
+      "type": "song",
+      "group": "Topic_9",
+      "id": "toxicity"
+    },
+    {
+      "type": "song",
+      "group": "Topic_7",
+      "id": "vicinity_of_obscenity"
+    },
+    {
+      "type": "song",
+      "group": "Topic_2",
+      "id": "violent_pornography"
+    },
+    {
+      "type": "song",
+      "group": "Topic_7",
+      "id": "x"
+    }
+  ],
+  "links": [
+    {
+      "weight": 2,
+      "source": "Topic_0",
+      "target": "go"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_0",
+      "target": "day"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_0",
+      "target": "away"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_0",
+      "target": "people"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_0",
+      "target": "end"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_0",
+      "target": "lonely"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_0",
+      "target": "feel"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_0",
+      "target": "come"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_0",
+      "target": "maggot"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_0",
+      "target": "pray"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_0",
+      "target": "lonely_day"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_0",
+      "target": "lost_in_hollywood"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_0",
+      "target": "revenga"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_0",
+      "target": "soldier_side"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_0",
+      "target": "sugar"
+    },
+    {
+      "weight": 2,
+      "source": "people",
+      "target": "Topic_7"
+    },
+    {
+      "weight": 2,
+      "source": "feel",
+      "target": "Topic_2"
+    },
+    {
+      "weight": 2,
+      "source": "feel",
+      "target": "Topic_5"
+    },
+    {
+      "weight": 2,
+      "source": "come",
+      "target": "Topic_6"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_1",
+      "target": "car"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_1",
+      "target": "sit"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_1",
+      "target": "freeway"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_1",
+      "target": "wait"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_1",
+      "target": "girl"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_1",
+      "target": "pig"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_1",
+      "target": "head"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_1",
+      "target": "leave"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_1",
+      "target": "hand"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_1",
+      "target": "disguise"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_1",
+      "target": "hypnotize"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_1",
+      "target": "mr._jack"
+    },
+    {
+      "weight": 2,
+      "source": "head",
+      "target": "Topic_2"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_2",
+      "target": "know"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_2",
+      "target": "disco"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_2",
+      "target": "non"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_2",
+      "target": "stop"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_2",
+      "target": "wind"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_2",
+      "target": "hair"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_2",
+      "target": "tv"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_2",
+      "target": "awake"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_2",
+      "target": "roulette"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_2",
+      "target": "spiders"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_2",
+      "target": "violent_pornography"
+    },
+    {
+      "weight": 2,
+      "source": "stop",
+      "target": "Topic_3"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_3",
+      "target": "want"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_3",
+      "target": "shimmy"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_3",
+      "target": "cocaine"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_3",
+      "target": "make"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_3",
+      "target": "think"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_3",
+      "target": "hide"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_3",
+      "target": "crazy"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_3",
+      "target": "school"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_3",
+      "target": "late"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_3",
+      "target": "chop_suey!"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_3",
+      "target": "psycho"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_4",
+      "target": "free"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_4",
+      "target": "river"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_4",
+      "target": "wanna"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_4",
+      "target": "lose"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_4",
+      "target": "return"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_4",
+      "target": "killer"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_4",
+      "target": "demon"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_4",
+      "target": "one"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_4",
+      "target": "aerial"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_4",
+      "target": "rest"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_4",
+      "target": "aerials"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_4",
+      "target": "holy_mountains"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_4",
+      "target": "needles"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_5",
+      "target": "na"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_5",
+      "target": "anymore"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_5",
+      "target": "ghost"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_5",
+      "target": "dream"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_5",
+      "target": "die"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_5",
+      "target": "rockin"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_5",
+      "target": "care"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_5",
+      "target": "blue"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_5",
+      "target": "indigenously"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_5",
+      "target": "atwa"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_5",
+      "target": "dreaming"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_5",
+      "target": "question!"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_5",
+      "target": "radiovideo"
+    },
+    {
+      "weight": 2,
+      "source": "die",
+      "target": "Topic_6"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_6",
+      "target": "try"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_6",
+      "target": "game"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_6",
+      "target": "philosophy"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_6",
+      "target": "run"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_6",
+      "target": "devil"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_6",
+      "target": "wild"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_6",
+      "target": "stick"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_6",
+      "target": "buck"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_6",
+      "target": "bounce"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_6",
+      "target": "genocidal_humanoidz"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_6",
+      "target": "shame"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_6",
+      "target": "suite-pee"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_7",
+      "target": "need"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_7",
+      "target": "therapy"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_7",
+      "target": "advertising"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_7",
+      "target": "buy"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_7",
+      "target": "multiply"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_7",
+      "target": "pie"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_7",
+      "target": "terracotta"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_7",
+      "target": "banana"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_7",
+      "target": "cause"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_7",
+      "target": "chic_\u2018n\u2019_stu"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_7",
+      "target": "vicinity_of_obscenity"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_7",
+      "target": "x"
+    },
+    {
+      "weight": 2,
+      "source": "buy",
+      "target": "Topic_11"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_8",
+      "target": "push"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_8",
+      "target": "smile"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_8",
+      "target": "horse"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_8",
+      "target": "fly"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_8",
+      "target": "pilot"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_8",
+      "target": "jet"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_8",
+      "target": "weak"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_8",
+      "target": "eye"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_8",
+      "target": "woo"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_8",
+      "target": "little"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_8",
+      "target": "deer_dance"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_8",
+      "target": "i-e-a-i-a-i-o"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_8",
+      "target": "jet_pilot"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_9",
+      "target": "cigaro"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_9",
+      "target": "regulator"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_9",
+      "target": "denial"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_9",
+      "target": "wrong"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_9",
+      "target": "smoke"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_9",
+      "target": "cigar"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_9",
+      "target": "cruel"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_9",
+      "target": "forest"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_9",
+      "target": "feeling"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_9",
+      "target": "walk"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_9",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_9",
+      "target": "this_cocaine_makes_me_feel_like_i\u2019m_on_this_song"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_9",
+      "target": "toxicity"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_10",
+      "target": "la"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_10",
+      "target": "heathen"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_10",
+      "target": "fight"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_10",
+      "target": "protect"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_10",
+      "target": "send"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_10",
+      "target": "land"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_10",
+      "target": "poor"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_10",
+      "target": "war"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_10",
+      "target": "party"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_10",
+      "target": "history"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_10",
+      "target": "b.y.o.b."
+    },
+    {
+      "weight": 1,
+      "source": "Topic_10",
+      "target": "protect_the_land"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_10",
+      "target": "sad_statue"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_11",
+      "target": "prison"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_11",
+      "target": "build"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_11",
+      "target": "system"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_11",
+      "target": "drug"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_11",
+      "target": "right"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_11",
+      "target": "policy"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_11",
+      "target": "pay"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_11",
+      "target": "crack"
+    },
+    {
+      "weight": 2,
+      "source": "Topic_11",
+      "target": "smack"
+    },
+    {
+      "weight": 1,
+      "source": "Topic_11",
+      "target": "prison_song"
+    }
+  ]
+}
